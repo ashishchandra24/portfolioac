@@ -1,6 +1,6 @@
 import React from "react";
 import "remixicon/fonts/remixicon.css";
-import resume from "../assets/ACResume.pdf";
+import resume from "../assets/RESUME1.pdf";
 
 const Section1 = () => {
   return (
@@ -231,7 +231,7 @@ const Section1 = () => {
 
               <a
                 href={resume}
-                download="ACResume.pdf"
+                download="RESUME1.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-lg border border-slate-700 hover:border-blue-500 hover:text-blue-400 transition flex items-center gap-3 text-sm sm:text-base font-semibold"

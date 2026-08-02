@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "remixicon/fonts/remixicon.css";
-import resume from "../assets/ACResume.pdf";
+import resume from "../assets/RESUME1.pdf";
 
 const SectionO = () => {
   // ================= TYPING EFFECT =================
@@ -224,7 +224,7 @@ const SectionO = () => {
 
           <a
             href={resume}
-            download="ACResume.pdf"
+            download="RESUME1.pdf"
             className="
               px-6
               sm:px-7
